@@ -1,0 +1,4 @@
+./generator  4096 data.bin
+./read       data.bin
+./sort_index 4096 16 8 data.bin
+./read       data.bin
