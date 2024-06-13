@@ -1,0 +1,5 @@
+INFO
+ECHO "QWE"
+LIST
+CD ..
+LIST

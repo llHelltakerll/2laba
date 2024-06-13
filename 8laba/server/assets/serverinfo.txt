@@ -1,0 +1,6 @@
+List of commands:
+1. INFO.
+2. ECHO.
+3. CD.
+4. LIST.
+5. QUIT.
